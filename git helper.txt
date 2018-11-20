@@ -1,2 +1,4 @@
 git remote add origin https://github.com/pigel/new.git
-git push -u origin master
+git push -u origin master 
+git
+gitt
