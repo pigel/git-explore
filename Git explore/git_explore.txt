@@ -1,0 +1,15 @@
+git cd:/      */path/*
+
+git config --global user.name"name"
+git config --global user.email"user@name" */ config git/*
+
+git config --list */ view config/*
+git init */makes git directory/*
+git status */show directory content and branches/*
+git add .  */adding all files in directory/*
+git commit -m "comment" */commit files (makes shot)/*
+git branch new-branch */creates new branch/*
+git checkout new-branch */switch branches/*
+git branch -D new-branch */delete branch at all/*
+
+ 
