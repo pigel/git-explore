@@ -11,7 +11,17 @@ git commit -m "comment" */commit files (makes shot)/*
 git branch new-branch */creates new branch/*
 git checkout new-branch */switch branches/*
 
+git clone https://github.com/pigel/new.git */clone from github repo/*
+git remote add origin https://github.com/pigel/new.git */set remote from github repo/*
 
-git remote add origin https://github.com/pigel/new.git
-git push -u origin master 
+git push -u origin master */add files from git to github by origin remote/*
+git push --set-upstream origin lomaster */streaming lomaster to github by origin remote/*
+
+git pull */fetching files from github/*
+
+
+
+
+
+
 
