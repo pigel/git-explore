@@ -1,2 +1,2 @@
 # git-explore
-this folder expect how git works
+this doc expects how git works
