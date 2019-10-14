@@ -1,2 +1,2 @@
 # git-explore
-rep explain how git works
+rep explains how git works
