@@ -1,2 +1,2 @@
 # git-explore
-this doc expects how git works
+rep expects how git works
